@@ -1,1 +1,4 @@
 logo
+git rm assets/logo.png
+git commit -m "Remove logo.png"
+git push
